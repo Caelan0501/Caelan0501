@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caelan Desmond</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 
 - 🔭 I’m currently working on [ConsoleCalculator](https://github.com/Caelan0501/ConsoleCalculator)
 
