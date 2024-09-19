@@ -3,7 +3,7 @@
 <h3 align="center">Always looking for new things to learn and improve on</h3>
 <h4 align="center">Currently filling out my profile by applying concepts I've learned in School</h4>
 
-- 🔭 I’m currently working on [ConsoleCalculator][(https://github.com/Caelan0501/CalculatorCollection)]
+- 🔭 I’m currently working on [CalculatorCollection][(https://github.com/Caelan0501/CalculatorCollection)]
 
 - 🌱 I’m currently learning **JavaScript**
 
