@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Caelan Desmond</h1>
 <h3 align="center">Looking for a Full-Time position | BS in Computer Science @ ASU</h3>
 <h3 align="center">Always looking for new things to learn and improve on</h3>
-<h4 align="center">Currently filling out my profile with applying concepts I've learned in School</h4>
+<h4 align="center">Currently filling out my profile by applying concepts I've learned in School</h4>
 
-- 🔭 I’m currently working on [ConsoleCalculator](https://github.com/Caelan0501/ConsoleCalculator)
+- 🔭 I’m currently working on [ConsoleCalculator][(https://github.com/Caelan0501/CalculatorCollection)]
 
 - 🌱 I’m currently learning **JavaScript**
 
