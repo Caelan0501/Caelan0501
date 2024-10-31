@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CalculatorCollection][(https://github.com/Caelan0501/CalculatorCollection)]
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **caelan0501@gmail.com**
 
