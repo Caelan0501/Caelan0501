@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on Experimenting with diffrent programming languages and building up sample code
 
-- 🌱 I’m currently learning **Java**
-
 - 📫 How to reach me **caelan0501@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
