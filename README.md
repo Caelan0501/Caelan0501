@@ -30,7 +30,7 @@ M.S. Computer Science Graduate | Systems & Network Security | SDN, Python, Linux
 
 Worked on a modernization effort for legacy vessel testing infrastructure in collaboration with General Dynamics through the ASU Capstone Program. Focused on system replacement planning, software integration considerations, documentation, and secure engineering workflows under real-world project constraints.
 
-**Technologies:** Python, Linux, Git, Systems Engineering, RaspberryPi, Radio interaction
+**Technologies:** Python, C#, Linux, Git, Systems Engineering, RaspberryPi, Radio Interaction, Ardupilot's Mission Planner.
 
 ---
 
