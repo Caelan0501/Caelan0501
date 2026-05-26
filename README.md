@@ -30,7 +30,7 @@ M.S. Computer Science Graduate | Systems & Network Security | SDN, Python, Linux
 
 Worked on a modernization effort for legacy vessel testing infrastructure in collaboration with General Dynamics through the ASU Capstone Program. Focused on system replacement planning, software integration considerations, documentation, and secure engineering workflows under real-world project constraints.
 
-**Technologies:** Python, Linux, Git, Systems Engineering
+**Technologies:** Python, Linux, Git, Systems Engineering, RaspberryPi, Radio interaction
 
 ---
 
@@ -38,7 +38,7 @@ Worked on a modernization effort for legacy vessel testing infrastructure in col
 
 Built a simulated SDN environment using Mininet and the POX controller to analyze and mitigate network attacks such as spoofing and denial-of-service behavior. Implemented MAC/IP-based detection and firewall logic within OpenFlow-controlled networks.
 
-**Technologies:** Python, Mininet, POX, OpenFlow, Linux
+**Technologies:** Python, Mininet, POX, OpenFlow, Linux, OpenDaylight
 
 ---
 
@@ -46,7 +46,7 @@ Built a simulated SDN environment using Mininet and the POX controller to analyz
 
 Developed a test case generation framework integrated with version control and CI/CD-oriented workflows. Focused on improving testing repeatability, automation, and development pipeline structure.
 
-**Technologies:** Python, Git, CI/CD Concepts
+**Technologies:** Java, Git, CI/CD Concepts
 
 ---
 
