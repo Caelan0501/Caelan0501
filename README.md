@@ -22,7 +22,12 @@ M.S. Computer Science Graduate | Systems & Network Security | SDN, Python, Linux
 - 🧠 LeetCode: [leetcode.com/caelandez](https://www.leetcode.com/caelandez)
 
 ---
+## Currently working on
+- CompTIA Security+ Certification
+- Password Manager (Small Project)
+- SDN Lab (Large Project)
 
+---
 ## Projects
 
 ### Vessel Special Test Equipment Replacement Project
